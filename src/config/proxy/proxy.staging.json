@@ -1,0 +1,14 @@
+{
+  "/api/*": {
+    "secure": false,
+    "target": "",
+    "logLevel": "debug",
+    "changeOrigin": true
+  },
+  "/oauth/*": {
+    "secure": false,
+    "target": "",
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}

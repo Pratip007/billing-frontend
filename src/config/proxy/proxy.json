@@ -1,0 +1,10 @@
+{
+  "/api/*": {
+    "secure": true,
+    "target": ""
+  },
+  "/oauth/*": {
+    "secure": true,
+    "target": ""
+  }
+}

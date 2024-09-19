@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2401.5" height="1158.579" viewBox="0 0 2401.5 1158.579">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="620.43" height="1158.579" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_30" data-name="Group 30" transform="translate(-534.5 -463)">
+    <g id="Group_27" data-name="Group 27" transform="translate(534.5 463)" clip-path="url(#clip-path)">
+      <path id="Path_12" data-name="Path 12" d="M310.209,300.227C138.892,300.227,0,439.119,0,610.447S138.892,920.657,310.209,920.657,620.43,781.776,620.43,610.447s-138.892-310.22-310.22-310.22m0,472.237A162.017,162.017,0,1,1,472.228,610.447,162.015,162.015,0,0,1,310.209,772.464" transform="translate(0 237.923)" fill="#3e9e97"/>
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="147.458" height="523.035" transform="translate(472.009 304.988)" fill="#3e9e97"/>
+      <path id="Path_13" data-name="Path 13" d="M166.869,0c40.795,0,73.868,32.589,73.868,72.789s-33.073,72.789-73.868,72.789S93,112.989,93,72.789,126.074,0,166.869,0" transform="translate(73.701)" fill="#3e9e97"/>
+    </g>
+    <text id="Technology_Innovation_Deck" data-name="Technology
+Innovation
+Deck" transform="translate(1345 802)" font-size="280" font-family="SFUIText-Semibold, SF UI Text" font-weight="600"><tspan x="0" y="0">Technology</tspan><tspan x="0" y="340">Innovation</tspan><tspan x="0" y="680">Deck</tspan></text>
+  </g>
+</svg>

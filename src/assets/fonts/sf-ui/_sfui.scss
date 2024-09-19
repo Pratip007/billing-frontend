@@ -1,0 +1,99 @@
+/* FONT PATH
+ * -------------------------- */
+$font-path: '/assets/fonts/sf-ui' !default;
+
+@font-face {
+  font-family: 'SFUIText';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText'),
+    url('#{$font-path}/SFUIText-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-RegularItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-RegularItalic'),
+    url('#{$font-path}/SFUIText-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-Light'),
+    url('#{$font-path}/SFUIText-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-LightItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-LightItalic'),
+    url('#{$font-path}/SFUIText-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-Medium'),
+    url('#{$font-path}/SFUIText-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-MediumItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-MediumItalic'),
+    url('#{$font-path}/SFUIText-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-Bold'),
+    url('#{$font-path}/SFUIText-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-BoldItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-BoldItalic'),
+    url('#{$font-path}/SFUIText-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-Semibold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-Semibold'),
+    url('#{$font-path}/SFUIText-Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-SemiboldItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-SemiboldItalic'),
+    url('#{$font-path}/SFUIText-SemiboldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-Heavy';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-Heavy'),
+    url('#{$font-path}/SFUIText-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFUIText-Heavy';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SFUIText-Heavy'),
+    url('#{$font-path}/SFUIText-HeavyItalic.ttf') format('truetype');
+}
